@@ -12,3 +12,9 @@ A sass project made with vanila-tilt-js library
 npm start
 ````
 Go to `localhost` to view the project.
+
+## Project screenshots
+
+![Project-screenshots](img/vanila-tilt-project.png)
+![Project-screenshots](img/vanila-tilt-project-2.png)
+![Project-screenshots](img/vanila-tilt-project-3.png)
